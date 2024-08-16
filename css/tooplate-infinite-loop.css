@@ -11,7 +11,8 @@ https://www.tooplate.com/view/2117-infinite-loop
 body {
 	font-family: "Raleway", sans-serif;
 	font-size: 1.2em;
-  color: #707070;
+  /* color: #707070; */
+  color: #84A4A7;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -55,7 +56,8 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  /* color: #37A; */
+  color: #84A4A7;
 }
 
 .tm-font-big {
@@ -64,7 +66,7 @@ blockquote {
 
 .tm-btn-primary {
   color: white;
-  background-color: #369;
+  background-color: #84A4A7;
   padding: 14px 30px;
 }
 
@@ -90,18 +92,21 @@ blockquote {
 }
 
 .navbar-brand {
-  color: white;
+  /* color: white; */
+  color: #84A4A7;
   font-size: 1.4rem;
   font-weight: bold;
 }
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #38B;
+  /* color: #38B; */
+  color: #84A4A7;
 }
 
 .tm-navbar.scroll .navbar-brand {
-  color: #369;
+  /* color: #369; */
+  color: #84A4A7;
 }
 
 .nav-item {
@@ -113,14 +118,15 @@ blockquote {
 }
 
 .tm-navbar.scroll .tm-nav-link {
-  color: #369;
+  /* color: #369; */
+  color: #84A4A7;
 }
 
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
   color: #FFF;
-  background-color: #369;
+  background-color: #84A4A7;
 }
 
 .navbar-toggler {
@@ -229,7 +235,7 @@ blockquote {
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
-    background: #357;
+    background: #84A4A7;
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
@@ -258,7 +264,7 @@ blockquote {
 
 .tm-icon {
   display: block;
-  color: #37A;
+  color: #84A4A7;
 }
 
 .tm-continue {
