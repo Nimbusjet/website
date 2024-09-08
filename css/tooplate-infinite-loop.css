@@ -114,7 +114,7 @@ blockquote {
 }
 
 .tm-nav-link {
-  color: white;
+  color: #84A4A7;
 }
 
 .tm-navbar.scroll .tm-nav-link {
@@ -125,7 +125,7 @@ blockquote {
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
-  color: #FFF;
+  color: #ffffff;
   background-color: #84A4A7;
 }
 
